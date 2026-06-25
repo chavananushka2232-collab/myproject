@@ -22,7 +22,7 @@ const FeedbackCollector = () => {
 
   return (
     <div className="container">
-      <h3>  🌼Feedback Collector🌼</h3>
+      <h3> Assignment 5: 🌼Feedback Collector🌼</h3>
 
     <br/>
       <button className="btn btn-success mx-1 px-2" onClick={() => handleFeedback('Good')}>
