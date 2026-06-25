@@ -9,7 +9,7 @@ const CharacterCounter = () => {
 
   return (
     <>
-      <h1 className="text-center">Character Counter</h1>
+      <h2 className="text-center"> Assignment 1: Character Counter</h2>
 
       <div className="container">
         <input
