@@ -5,7 +5,7 @@ const ColourPicker = () => {
 
   return (
     <div>
-      <h2> Favorite Color Picker</h2>
+      <h2>Assignment 3: Favorite Color Picker</h2>
 
       <h4>Selected Color: {color}</h4>
 
