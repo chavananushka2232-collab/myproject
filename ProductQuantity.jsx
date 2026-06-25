@@ -9,7 +9,7 @@ const ProductQuantity = () => {
 
   return (
     <>
-      <h2>Product Quantity</h2>
+      <h2> Assignment 2:Product Quantity</h2>
 
       <div className="container">
         <p>Product: {product}</p>
